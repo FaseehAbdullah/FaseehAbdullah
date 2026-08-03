@@ -50,34 +50,15 @@
 - 🤖 **Interning at:** SINES, NUST — MLOps Intern
 - 📚 **Learning:** MLflow • DVC • GitHub Actions • Docker • FastAPI
 - 🔐 **Exploring:** Cybersecurity concepts and practices
-- 🌐 **Building:** End-to-end ML pipelines and REST APIs
+- 🌐 **Building:** Real-world AI applications that actually run in production, not just notebooks
 
 ---
 
-## 📂 Project Portfolio
 
-### 🧠 Machine Learning & MLOps
-| Project | Type | Algorithm | Result |
-|---------|------|-----------|--------|
-| Titanic Survival Prediction | Binary Classification | Logistic Regression | 81% Accuracy |
-| House Price Prediction | Regression | Linear Regression | R² 0.64 |
-| Diabetes Prediction | Binary Classification | Logistic Regression | 70.7% Accuracy |
-| Iris Classification | Multi-class | DT / RF / KNN | Multiple models |
-| Vehicle Price Calculator | Regression | Ridge/Lasso | R² 0.88 |
-| Air Quality Health-Risk Classifier | Multi-class | Random Forest | 86.23% Accuracy |
-
-> All projects available on my GitHub repositories below ⬇️
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaseehAbdullah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaseehAbdullah&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
