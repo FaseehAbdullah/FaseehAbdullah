@@ -48,7 +48,6 @@
 ## 🔥 Current Focus
 
 - 🤖 **Interning at:** SINES, NUST — MLOps Intern
-- 📚 **Learning:** MLflow • DVC • GitHub Actions • Docker • FastAPI
 - 🔐 **Exploring:** Cybersecurity concepts and practices
 - 🌐 **Building:** Real-world AI applications that actually run in production, not just notebooks
 
