@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faseeh Abdullah</h1>
 <h3 align="center">Computer Engineer | ML & Data Analysis | Cybersecurity Enthusiast</h3>
-<p align="center">🇵🇰 Based in Pakistan</p>
+<p align="center"> Pakistan</p>
 
 ---
 
